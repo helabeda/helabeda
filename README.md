@@ -2,9 +2,11 @@
 
 ### <samp>I am  Hela Abeda a Junior MERN Stack Developer </samp>
 
+### <samp>My Portfolio 🌐 </samp>
+<a href="https://abedahela-myportfolio.000webhostapp.com" target="_blank">  </a>
 ### <samp> Find me on: </samp>
 
-</a><a href="https://www.linkedin.com/in/hela-abada-b0b560120/" target="_blank">
+<a href="https://www.linkedin.com/in/hela-abada-b0b560120/" target="_blank"> LinkedIn </a>
 <img src="https://img.shields.io/badge/linkedin%20-%2314354C.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helabeda" alt="Hela Abeda" /> </p>
@@ -23,5 +25,6 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
 
 
