@@ -2,8 +2,7 @@
 
 ### <samp>I am  Hela Abeda a Junior MERN Stack Developer </samp>
 
-### <samp>My Portfolio</samp>
-<a href="https://abedahela-myportfolio.000webhostapp.com" target="_blank">  🌐  </a>
+<a href="https://abedahela-myportfolio.000webhostapp.com" target="_blank">  🌐 My Portfolio</a>
 ### <samp> Find me on: </samp>
 
 <a href="https://www.linkedin.com/in/hela-abada-b0b560120/" target="_blank"></a>
